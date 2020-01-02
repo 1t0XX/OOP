@@ -9,7 +9,7 @@
 public class AnimalsDemo {
     public static void main(String[] args) {
 
-        Animal [] arrayAnimal = new Animal[5];
+        Animal [] arrayAnimal = new Animal[4];
 
         arrayAnimal[0] = new Cat("Теслик");
         arrayAnimal[1] = new Dog("Шарик", 600, 1, 15);
